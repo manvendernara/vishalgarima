@@ -425,7 +425,7 @@ h1.first-name {
 }
 
 .dance-med {
-	font-family: 'Dancing Script', cursive;
+	font-family: 'Arvo', serif;
 	font-weight: bolder;
 	font-style: normal;
 	font-size: 26px;
@@ -576,6 +576,7 @@ body {
 }
 
 .tap-envelope {
+	
 	font-family: 'Dancing Script', cursive;
 	font-weight: bold;
 	font-style: normal;
